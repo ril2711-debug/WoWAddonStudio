@@ -1,0 +1,4 @@
+## Interface: 120000
+## Version: 1.0.0
+Core.lua
+UI.lua

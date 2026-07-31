@@ -1,0 +1,4 @@
+1. Execute INICIAR_WAS.bat.
+2. Cole o caminho do addon.
+3. Abra reports\AuditReport.html.
+4. Consulte também FunctionsReport.json e CallGraph.dot.
